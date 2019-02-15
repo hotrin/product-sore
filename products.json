@@ -1,0 +1,15 @@
+[{
+    "id": "1",
+    "name": "Basketball",
+    "price": 50
+},
+{
+    "id": "2",
+    "name": "Shoes",
+    "price": 120
+},
+{
+    "id": "3",
+    "name": "Socks",
+    "price": 10
+}]
